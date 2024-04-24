@@ -1,0 +1,896 @@
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:48 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:49 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:50 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:51 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:52 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:53 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:54 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:56 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:57 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:58 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:46:59 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:00 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:01 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:02 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:03 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:04 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:05 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:06 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:07 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:08 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"code","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" EJSONPARSE\n","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"path","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" /var/www/code/laundry-app/backend/package.json\n","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Unexpected token \"}\" (0x7D) in JSON at position 708 while parsing near \"...uuid\\\": \\\"^9.0.1\\\",\\n\\n  },\\n  \\\"proxy\\\": \\\"http:...\"\n","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Failed to parse JSON data.\n","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"npm","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"ERR!","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" ","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"JSON.parse","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":" Note: package.json must be actual JSON, not just JavaScript.\n","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}
+{"message":"\n","timestamp":"23-11 14:47:09 +00:00","type":"err","process_id":0,"app_name":"Backend"}

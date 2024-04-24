@@ -1,0 +1,29 @@
+{
+  "name": "laundryapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "setup": "node setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.410.0",
+    "aws-sdk": "^2.1456.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.6.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.1"
+  },
+  "proxy": "http://laundry.sunshinelaundry.ca:4000"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "lambda-save-transactions",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mysql2": "^3.6.2"
+  },
+  "scripts": {}
+}
