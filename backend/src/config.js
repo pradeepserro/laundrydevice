@@ -8,9 +8,9 @@ const config = {
         dynamoDBEndpoint: 'http://localhost:8000'
     },
     production: {
-        apiUrl: 'http://laundry.sunshinelaundry.ca:4000/api/v1',
-        proxyUrl: 'http://laundry.sunshinelaundry.ca:4000',
-        reactUrl: 'http://laundry.sunshinelaundry.ca',
+        apiUrl: 'http://3.99.223.249:4000/api/v1',
+        proxyUrl: 'http://3.99.223.249:4000',
+        reactUrl: 'http://3.99.223.249ß',
         region: 'ca-central-1',
         dynamoDBEndpoint: 'dynamodb.ca-central-1.amazonaws.com',
 

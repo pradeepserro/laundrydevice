@@ -25,5 +25,5 @@
     "socket.io": "^4.7.2",
     "uuid": "^9.0.1"
   },
-  "proxy": "http://laundry.sunshinelaundry.ca:4000"
+  "proxy": "http://3.99.223.249:4000"
 }

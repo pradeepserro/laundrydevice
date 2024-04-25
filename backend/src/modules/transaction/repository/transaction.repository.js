@@ -3,8 +3,8 @@ const mysql = require('mysql2/promise');
 
 dbConfig = {
   host: 'localhost',
-  user: 'spincycle',
-  password: 'Ls39GSHzr3',
+  user: 'pradeep',
+  password: 'Abcd@1234',
   database: 'spincycle',
   namedPlaceholders: true,
 };

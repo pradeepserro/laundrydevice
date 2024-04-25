@@ -4,8 +4,8 @@ const { v4: uuidv4 } = require('uuid');
 
 dbConfig = {
   host: 'localhost',
-  user: 'spincycle',
-  password: 'Ls39GSHzr3',
+  user: 'pradeep',
+  password: 'Abcd@1234',
   database: 'spincycle',
   namedPlaceholders: true,
 };

@@ -1,20 +1,20 @@
 // config.js
 const config = {
     development: {
-        apiUrl: 'http://laundry.sunshinelaundry.ca:4000/api/v1',
-        proxyUrl: 'http://laundry.sunshinelaundry.ca:4000',
-        reactUrl: 'http://laundry.sunshinelaundry.ca:80',
+        apiUrl: 'http://3.99.223.249:4000/api/v1',
+        proxyUrl: 'http://3.99.223.249:4000',
+        reactUrl: 'http://3.99.223.249',
         REACT_APP_AWS_REGION: 'ca-central-1',
-        REACT_APP_AWS_IOT_ENDPOINT: 'a3kj3d3pov9p8x-ats.iot.ca-central-1.amazonaws.com',
-        REACT_APP_AWS_COGNITO_IDENTITY_POOL_ID: 'ca-central-1:5e324ab8-980b-421a-a387-0bbfc809736c',
+        REACT_APP_AWS_IOT_ENDPOINT: 'a2m5ep85nd5s4s-ats.iot.ca-central-1.amazonaws.com',
+        REACT_APP_AWS_COGNITO_IDENTITY_POOL_ID: 'ca-central-1:343aba64-1cb1-4384-99c0-55041f2cacbc',
     },
     production: {
-        apiUrl: 'http://laundry.sunshinelaundry.ca:4000/api/v1',
-        proxyUrl: 'http://laundry.sunshinelaundry.ca:4000',
-        reactUrl: 'http://laundry.sunshinelaundry.ca',
+        apiUrl: 'http://3.99.223.249:4000/api/v1',
+        proxyUrl: 'http://3.99.223.249:4000',
+        reactUrl: 'http://3.99.223.249',
         REACT_APP_AWS_REGION: 'ca-central-1',
-        REACT_APP_AWS_IOT_ENDPOINT: 'a3kj3d3pov9p8x-ats.iot.ca-central-1.amazonaws.com',
-        REACT_APP_AWS_COGNITO_IDENTITY_POOL_ID: 'ca-central-1:5e324ab8-980b-421a-a387-0bbfc809736c',
+        REACT_APP_AWS_IOT_ENDPOINT: 'a2m5ep85nd5s4s-ats.iot.ca-central-1.amazonaws.com',
+        REACT_APP_AWS_COGNITO_IDENTITY_POOL_ID: 'ca-central-1:343aba64-1cb1-4384-99c0-55041f2cacbc',
     },
 };
 const environment = "production";
